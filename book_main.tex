@@ -1,0 +1,118 @@
+\documentclass[
+  pagePreset=smallpage,
+  babelLanguage=british,
+]{aruno-anecdote}
+
+\title{Recollections of Ajahn Chah}
+\subtitle{}
+\author{}
+\date{2013-04-25}
+\ISBN{978-1-908444-36-3}
+\editionInfo{\textit{Second edition}, 8,600 copies, \the\year, Printed in Malaysia}
+
+\usepackage{mylayout}
+
+\begin{document}
+
+%% Frontmatter
+%% ===========
+
+\frontmatter
+
+%% Title page
+%% ----------
+%% subtitle, editor, translator, preface by, introduction by, publisher
+
+\cleartorecto
+\thispagestyle{empty}
+\input{./src-tex/titlepage.tex}
+
+%% Copyright page
+%% --------------
+%% publisher info, edition info, ISBN, etc.
+
+\cleartoverso
+\thispagestyle{empty}
+\input{./src-tex/copyright-amaravati.tex}
+
+%% Acknowledgements
+%% ----------------
+%% * acknowledgement of sponsors
+
+\cleartorecto
+\thispagestyle{empty}
+\input{./src-tex/acknowledgements.tex}
+
+%% Table of Contents
+%% -----------------
+
+\tableofcontents
+
+%% Main matter
+%% ===========
+
+\mainmatter
+
+%\partNote{The first section of this book has been adapted from a series of
+%transcribed interviews which were conducted by Ajahn Kongrit
+%Ratanawanno during his time at Amaravati Buddhist Monastery, UK. Ajahn
+%Kongrit's home monastery is Wat Beung Saensook, Thailand. In most
+%cases the interviewee was asked the simple question about what had
+%inspired them most in being with Ajahn Chah.}
+
+\part{Being with Ajahn Chah}
+\chapter{Recollecting Inspiration}
+\input{./src-tex/being-with-ajahn-chah.tex}
+
+%\part{Forest Sangha Newsletter Articles}
+%\input{./src-tex/forest-sangha-newsletter-articles.tex}
+%
+%\part{TV Interview with Ajahn Vajiro}
+%\input{./src-tex/tv-interview-with-ajahn-vajiro.tex}
+%
+%\part{The Luang Por Chah Memorial Week}
+%\input{./src-tex/luang-por-chah-memorial-week.tex}
+
+%% Backmatter
+%% ==========
+%% Glossary, Notes, Index...
+
+\backmatter
+
+\bookmarksetup{startatroot}
+
+%\input{./glossary-additional-words.tex}
+%
+%\clearpage
+%
+%\settypeblocksize{32\baselineskip + \topskip}{122mm}{*}
+%\setlrmargins{*}{12mm}{*}
+%\checkandfixthelayout
+%\makeatletter
+%\ch@ngetext
+%\makeatletter
+%
+%\chapterstyle{hightitle}
+%
+%\chapterFootnote{\textit{Note}: These definitions of terms have been collected from a number of free distribution publications of the Forest Sangha. We have also included material from `\textit{A Glossary of Pāli and Buddhist Terms}' edited by John T. Bullitt, available at \href{http://www.accesstoinsight.org/glossary.html}{www.accesstoinsight.org/glossary.html}. Definitions from the different sources have been revised for relevance and consistency.}
+%\chapter{Glossary}
+%
+%\begin{multicols}{2}
+%\footnotesize
+%
+%\printglossaries
+%
+%\end{multicols}
+
+%% Copyright details
+%% -----------------
+
+\cleartorecto
+\thispagestyle{plain}
+\input{./src-tex/copyright-details-amaravati.tex}
+
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+
+\end{document}
