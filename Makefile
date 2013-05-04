@@ -14,6 +14,9 @@ glossary:
 	makeglossaries $(FILE)
 	echo $(grep -cE '\\glossaryentryfield' `$FILE`.gls)" entries"
 
+four:
+	make all && make all && make all && make all
+
 dozen:
 	rm $(FILE).gl* $(FILE).xdy
 	make all && make all && make all && make all &&\

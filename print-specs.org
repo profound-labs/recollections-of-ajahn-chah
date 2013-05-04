@@ -1,0 +1,16 @@
+#+TITLE: Print Specs for Recollections of Ajahn Chah
+
+* Print Specs for Recollections of Ajahn Chah
+ 
+| Title:               | Recollections of Ajahn Chah   |
+| Language:            | English                       |
+| Author:              | various                       |
+| Page width:          | 5.25in                        |
+| Page height:         | 8in                           |
+| Spine width:         | 10.328mm                      |
+| Mainmatter:          | 176 pages                     |
+| Mainmatter material: | cream 70gsm                   |
+| Cover material:      | 300gsm 2 side coated art card |
+| Cover finishing:     | Matt                          |
+| Binding:             | perfect binding               |
+
