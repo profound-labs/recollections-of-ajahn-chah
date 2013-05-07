@@ -124,6 +124,7 @@
 
 \newfontfamily\partTitleFont[
   ItalicFont = Shaker 2 Light Italic,
+  BoldFont = Shaker 2 Bold,
   Renderer = Basic,
 ]{Shaker 2 Light}
 
