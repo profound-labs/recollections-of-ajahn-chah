@@ -257,7 +257,9 @@
   \settrimmedsize{\stockheight}{\stockwidth}{*}
   \settrims{0pt}{0pt}
   \settypeblocksize{27\baselineskip + \topskip}{*}{0.618}% 1/1.618 Golden section
-  \setlrmargins{*}{*}{0.889}% major 2nd 15:16
+  %\setlrmargins{*}{*}{0.889}% major 2nd 15:16, gives: 19.24mm | 17.1mm
+  % FIXED: inner margin too close to the spine. Increased it a bit.
+  \setlrmargins{*}{*}{0.63}% gives: 22.30mm | 14.04mm
   \setulmargins{*}{*}{1.701}% Tall Pentagon
   \setlength{\footskip}{3\baselineskip}
   \checkandfixthelayout
