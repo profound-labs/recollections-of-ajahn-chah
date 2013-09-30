@@ -1,0 +1,46 @@
+
+# Epub and Mobi
+# =============
+
+bookid: "RecollectionsOfAjahnChah"
+version: v1.0
+isbn: "000-0-000000-00-0"
+cover_image: "cover.jpg"
+
+toc:
+  - { the_matter: frontmatter }
+  - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
+  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
+  - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
+  - titlepage.md
+  - copyright-amaravati.md
+  - acknowledgements.md
+  - preface.md
+  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
+  - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
+  - { the_matter: mainmatter, section_number: 1 }
+  - like-a-boat.md
+  - nameless-labyrinth.markdown
+  - time-machine.markdown
+  - { section_name: "Appendix", section_number: 1 }
+  - further-comments.markdown
+  - { the_matter: backmatter }
+  - glossary.md
+
+# BISAC Subject Headings List:
+# http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php
+
+#subject: LIST / OF / SUBJECTS
+#source: http://www.source.org/
+
+# MARC Code List for Relators:
+# Editor [edt], Cover designer [cov], Translator [trl],
+# Book designer [bkd]
+# http://www.loc.gov/marc/relators/relaterm.html
+
+#contributors:
+#  - edt: Lastname, Name
+#  - edt: Other Lastname, Name
+#  - cov: Lastname, Name
+#  - trl: Lastname, Name
+

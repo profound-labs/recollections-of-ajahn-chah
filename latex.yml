@@ -1,0 +1,46 @@
+
+isbn: "978-1-870205-65-8"
+edition: '\textit{Second edition}, 8,600 copies, \the\year, Printed in Malaysia'
+
+toc:
+  - { the_matter: frontmatter }
+  - { insert: "\\frontmatter", target: latex }
+  - { insert: "\\cleartorecto", target: latex }
+  - titlepage.tex
+  - { insert: "\\cleartoverso", target: latex }
+  - copyright-amaravati.tex
+  - { insert: "\\cleartorecto", target: latex }
+  - acknowledgements.tex
+  - { insert: "\\tableofcontents", target: latex }
+  - { the_matter: mainmatter }
+  - { insert: "\\mainmatter", target: latex }
+  - part-1.tex
+  - being-with-ajahn-chah.tex
+  - part-2.tex
+  - fsn-1989-july.tex
+  - fsn-1990-july.tex
+  - fsn-1992-april-aj-chah-passes-away.tex
+  - fsn-1992-april-the-50th-day.tex
+  - fsn-1992-april-a-noble-life.tex
+  - fsn-1992-october.tex
+  - fsn-1993-january.tex
+  - fsn-1994-january.tex
+  - fsn-1994-april.tex
+  - fsn-1994-july.tex
+  - fsn-1997-january.tex
+  - fsn-1998-october.tex
+  - fsn-2004-january.tex
+  - fsn-2007-july.tex
+  - { insert: "\\addtocontents{toc}{\\newpage}", target: latex }
+  - part-3.tex
+  - interview-with-ajahn-vajiro.tex
+  - part-4.tex
+  - luang-por-chah-memorial-week.tex
+  - { insert: "\\emptypage", target: latex }
+  - { the_matter: backmatter }
+  - { insert: "\\backmatter", target: latex }
+  - { insert: "\\bookmarksetup{startatroot}", target: latex }
+  - { insert: "\\cleartorecto", target: latex }
+  - copyright-details-amaravati.tex
+  - { insert: "\\clearpage\\thispagestyle{empty}\\mbox{}", target: latex }
+

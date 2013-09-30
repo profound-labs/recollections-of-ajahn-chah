@@ -1,0 +1,116 @@
+\documentclass[
+  final,
+  pagePreset=smallpage,
+  babelLanguage=british,
+]{anecdote}
+
+\usepackage{mylayout}
+
+%% Details of the book
+%% ===================
+
+\title{Recollections of Ajahn Chah}
+\subtitle{}
+\author{}
+\date{2013-05-03}
+\ISBN{978-1-870205-65-8}
+\editionInfo{\textit{Second edition}, 8,600 copies, \the\year, Printed in Malaysia}
+
+%% === Load further packages ===
+
+\begin{document}
+
+
+\frontmatter
+
+\cleartorecto
+
+\input{../.././manuscript/tex/titlepage.tex}
+
+\cleartoverso
+
+\input{../.././manuscript/tex/copyright-amaravati.tex}
+
+\cleartorecto
+
+\input{../.././manuscript/tex/acknowledgements.tex}
+
+\tableofcontents
+
+\mainmatter
+
+\input{../.././manuscript/tex/part-1.tex}
+
+% Being with Ajahn Chah
+\input{../.././manuscript/tex/being-with-ajahn-chah.tex}
+
+\input{../.././manuscript/tex/part-2.tex}
+
+% Gratitude
+\input{../.././manuscript/tex/fsn-1989-july.tex}
+
+% Living with Luang Por
+\input{../.././manuscript/tex/fsn-1990-july.tex}
+
+% Ajahn Chah Passes Away
+\input{../.././manuscript/tex/fsn-1992-april-aj-chah-passes-away.tex}
+
+% The Fiftieth Day Commemoration
+\input{../.././manuscript/tex/fsn-1992-april-the-50th-day.tex}
+
+% A Noble Life
+\input{../.././manuscript/tex/fsn-1992-april-a-noble-life.tex}
+
+% Questions & Answers
+\input{../.././manuscript/tex/fsn-1992-october.tex}
+
+% Questions & Answers II
+\input{../.././manuscript/tex/fsn-1993-january.tex}
+
+% Recollections by Jack Kornfield
+\input{../.././manuscript/tex/fsn-1994-january.tex}
+
+% Luang Por Chah’s Relics
+\input{../.././manuscript/tex/fsn-1994-april.tex}
+
+% Recollections by Greg Klein
+\input{../.././manuscript/tex/fsn-1994-july.tex}
+
+% Timeless Teachings
+\input{../.././manuscript/tex/fsn-1997-january.tex}
+
+% Ajahn Chah’s Birthday
+\input{../.././manuscript/tex/fsn-1998-october.tex}
+
+% Some Final Words
+\input{../.././manuscript/tex/fsn-2004-january.tex}
+
+% Thirty Years Later
+\input{../.././manuscript/tex/fsn-2007-july.tex}
+
+\addtocontents{toc}{\newpage}
+
+\input{../.././manuscript/tex/part-3.tex}
+
+% Interview with Ajahn Vajiro
+\input{../.././manuscript/tex/interview-with-ajahn-vajiro.tex}
+
+\input{../.././manuscript/tex/part-4.tex}
+
+% The Luang Por Chah
+\input{../.././manuscript/tex/luang-por-chah-memorial-week.tex}
+
+\emptypage
+
+\backmatter
+
+\bookmarksetup{startatroot}
+
+\cleartorecto
+
+\input{../.././manuscript/tex/copyright-details-amaravati.tex}
+
+\clearpage\thispagestyle{empty}\mbox{}
+
+
+\end{document}

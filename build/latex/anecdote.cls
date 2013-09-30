@@ -63,7 +63,7 @@
 \RequirePackage[cmyk]{xcolor}
 
 \RequirePackage{graphicx}
-\graphicspath{{./src-images/}}
+\graphicspath{{../../images/}}
 \RequirePackage{eso-pic}
 \RequirePackage{ccicons}
 \RequirePackage{multicol}
