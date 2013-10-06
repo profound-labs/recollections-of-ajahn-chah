@@ -1,0 +1,85 @@
+A Noble Life
+============
+
+*17^th^ June, 1918 – 16^th^ January 16, 1992*
+
+Venerable Ajahn Chah was born on 17^th^ June 1918 in a small village
+near the town of Ubon Rajathani, north-east Thailand. Between the ages
+of 9 and 17 he was a *sāmaṇera* (novice monk), during which time he
+received his basic schooling, before returning to lay life to help his
+parents on the farm. At the age of 20, however, he decided to resume
+monastic life, and on 26^th^ April, 1939 he received *upasampadā*
+(*bhikkhu* ordination).
+
+Ajahn Chah’s early monastic life followed a traditional pattern of
+studying Buddhist teachings and the Pāli scriptural language. In his
+fifth year as a monk his father fell seriously ill and died, a blunt
+reminder of the frailty and precariousness of human life. This caused
+him to think deeply about life’s real purpose, for although he had
+studied extensively and gained some proficiency in Pāli, he seemed no
+nearer to a personal understanding of the end of suffering. Feelings of
+disenchantment set in, and finally (in 1946) he abandoned his studies
+and set off on mendicant pilgrimage.
+
+He walked some 400 km to central Thailand, sleeping in forests and
+gathering alms-food in the villages on the way. He took up residence in
+a monastery where the Vinaya was carefully studied and practised. While
+there he was told about Venerable Ajahn Mun Bhuridatta, a most highly
+respected meditation master. Keen to meet such an accomplished teacher,
+Ajahn Chah set off on foot for the north-east in search of him.
+
+At this time Ajahn Chah was wrestling with a crucial problem. He had
+studied the teachings on morality, meditation and wisdom, which the
+texts presented in minute and refined detail, but he could not see how
+they could all actually be put into practice. Ajahn Mun told him that
+although the teachings are indeed extensive, at their heart they are
+very simple. With mindfulness established, it is seen that everything
+arises in the mind; right there is the true path of practice. This
+succinct and direct teaching was a revelation for Ajahn Chah, and
+transformed his approach to practice. The way was clear.
+
+For the next seven years Ajahn Chah practised in the style of the
+austere Forest Tradition, wandering through the countryside in quest of
+quiet and secluded places for developing meditation. He lived in tiger-
+and cobra-infested jungles, and even in charnel-grounds, using
+reflections on death to overcome fear and penetrate to the true meaning
+of life. In 1954, after years of wandering, he was invited back to his
+home village. He settled close by, in a fever-ridden haunted forest
+called ‘Pah Pong’. Despite the hardships of malaria, poor shelter and
+sparse food, disciples gathered around him in increasing numbers. The
+monastery which is now known as Wat Pah Pong began there, and eventually
+branch monasteries were also established elsewhere.
+
+The training in Ajahn Chah’s monasteries was quite strict and
+forbidding. Ajahn Chah often pushed his monks to their limits, to test
+their powers of endurance so that they would develop patience and
+resolution. He sometimes initiated long and seemingly pointless work
+projects in order to frustrate their attachment to tranquillity. The
+emphasis was always on surrender to the way things are, and great stress
+was placed upon strict observance of the Vinaya.
+
+In 1977 Ajahn Chah was invited to visit Britain by the English Sangha
+Trust, a charity with the aim of establishing a locally-resident
+Buddhist Sangha. He took Venerable Sumedho and Venerable Khemadhammo
+along, and seeing the serious interest there, left them in London at the
+Hampstead Vihāra. Another two of Ajahn Chah’s Western *bhikkhus*, who
+were then visiting their families in North America, were invited to stay
+in London to make up a small resident Sangha. He returned to Britain in
+1979, at which time the monks were leaving London to begin Chithurst
+Buddhist Monastery in Sussex. He then went on to America and Canada to
+visit and teach.
+
+After this trip and again in 1981, Ajahn Chah spent the Rains away from
+Wat Pah Pong, since his health was failing due to the debilitating
+effects of diabetes. As his illness worsened, he would use his body as a
+teaching, a living example of the impermanence of all things. He
+constantly reminded people to endeavour to find a true refuge within
+themselves, since he would not be able to teach for very much longer.
+
+Before the end of the 1981 Rains, he was taken to Bangkok for an
+operation; however, it did little to improve his condition. Within a few
+months he stopped talking, and gradually he lost control of his limbs
+until he was completely paralyzed and bedridden. From then on he was
+diligently nursed and attended by his *bhikkhu* disciples, grateful for
+the occasion to offer service to the teacher who so patiently and
+compassionately showed the Way to so many.

@@ -5,27 +5,51 @@
 bookid: "RecollectionsOfAjahnChah"
 version: v1.0
 isbn: "000-0-000000-00-0"
-cover_image: "cover.jpg"
+
+# Level 1, 2, 3
+section_names: [ "Part", "Chapter", "Section" ]
 
 toc:
   - { the_matter: frontmatter }
   - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
   - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
-  - titlepage.md
-  - copyright-amaravati.md
-  - acknowledgements.md
-  - preface.md
+  - { title: "Copyright", src: 'copyright-amaravati.md', type: copyright-page }
+  - { title: "Dedication", src: "acknowledgements.md", type: dedication }
   - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
   - { the_matter: mainmatter, section_number: 1 }
-  - like-a-boat.md
-  - nameless-labyrinth.markdown
-  - time-machine.markdown
-  - { section_name: "Appendix", section_number: 1 }
-  - further-comments.markdown
+  - { title: "Interviews with Senior Sangha Members", src: "part-1.html", class: part-page }
+  - { level: 2, src: "being-with-ajahn-chah.md" }
+  - { title: "Forest Sangha Newsletter Articles", src: "part-2.html", class: part-page }
+  - { level: 2, src: "fsn-1989-july.md" }
+  - { level: 2, src: "fsn-1990-july.md" }
+  - { level: 2, src: "fsn-1992-april-aj-chah-passes-away.md" }
+  - { level: 2, src: "fsn-1992-april-the-50th-day.md" }
+  - { level: 2, src: "fsn-1992-april-a-noble-life.md" }
+  - { level: 2, src: "fsn-1992-october.md" }
+  - { level: 2, src: "fsn-1993-january.md" }
+  - { level: 2, src: "fsn-1994-january.md" }
+  - { level: 2, src: "fsn-1994-april.md" }
+  - { level: 2, src: "fsn-1994-july.md" }
+  - { level: 2, src: "fsn-1997-january.md" }
+  - { level: 2, src: "fsn-1998-october.md" }
+  - { level: 2, src: "fsn-2004-january.md" }
+  - { level: 2, src: "fsn-2007-july.md" }
+  - { title: "Television Interview", src: "part-3.html", class: part-page }
+  - { level: 2, src: "interview-with-ajahn-vajiro.md" }
+  - { title: "A Recent Recollection", src: "part-4.html", class: part-page }
+  - { level: 2, src: "luang-por-chah-memorial-week.md" }
   - { the_matter: backmatter }
-  - glossary.md
+  - copyright-details-amaravati.md
+
+cover_image: "cover.jpg"
+exclude_assets: [ "cover.xcf", ]
+
+publisher: "Amaravati Publications"
+publisher_atag: "<a href='http://amaravati.org/' target='_blank'>www.amaravati.org</a>"
+publisher_logo: "publisher-logo.jpg"
+#book_atag: "<a href='http://thepublisher.org/thebookurl/' target='_blank'>www.thepublisher.org/thebookurl</a>"
 
 # BISAC Subject Headings List:
 # http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php
