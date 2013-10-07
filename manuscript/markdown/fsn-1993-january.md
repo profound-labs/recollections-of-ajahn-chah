@@ -1,9 +1,12 @@
 Questions & Answers II
 ======================
 
-Does one have to practise and gain *samādhi* (concentration) before one
+*Issue 23, published in January 1993. The second in a series of extracts from a conversation between Luang Por Chah and a lay Buddhist.*
+
+*Q:* Does one have to practise and gain *samādhi* (concentration) before one
 can contemplate the Dhamma?
 
+*Luang Por Chah:*
 We can say that’s correct from one point of view, but from the aspect of
 practice, *paññā* has to come first. In conventional terms, it’s *sīla*,
 *samādhi* and then *paññā*, but if we are truly practising the Dhamma,
@@ -67,12 +70,13 @@ this experience only once; on subsequent occasions I found that
 sometimes I was unable to feel only certain areas of the body, such as
 the hands, whereas in other areas there was still feeling.
 
-Sometimes during my practice I start to wonder whether just sitting and
+*Q:* Sometimes during my practice I start to wonder whether just sitting and
 allowing the heart to let go of everything is the correct way to
 practise; or else should I think over and occupy myself with the
 different problems or unanswered questions concerning the Dhamma which I
 still have?
 
+*Luang Por Chah:*
 It’s not necessary to keep going over or adding anything on at this
 stage. This is what Tan Ajahn Tate was referring to; one must not repeat
 or add onto that which is there already. When that particular kind of

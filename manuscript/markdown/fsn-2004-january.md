@@ -1,6 +1,8 @@
 Some Final Words
 ================
 
+*Issue 67, published in January 2004.*
+
 *Extract from a talk given by Luang Por Chah to a large gathering of
 monks and laypeople at Wat Nong Pah Pong, recently translated by Paul
 Breiter.*

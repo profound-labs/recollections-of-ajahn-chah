@@ -327,18 +327,18 @@ quite near Chithurst and my father had just had a heart attack and was
 very sick, and what did Luang Por think I should do?
 
 He spoke for about twenty minutes – it was a long speech and I didn’t
-really catch much of it. At the end, Ajahn Jāgaro said, \`Well, he said
+really catch much of it. At the end, Ajahn Jāgaro said, ‘Well, he said
 four things.
 
-\`\`\`Go to England and when your visit to your family is finished, go
+‘“Go to England and when your visit to your family is finished, go
 and pay your respects to Ajahn Sumedho and then come straight back to
 Thailand.
 
-\`\`\`Go to England and stay with your family and when your business
+‘“Go to England and stay with your family and when your business
 with your family is finished, go to stay with Ajahn Sumedho for a year
 and then after that year you should come back to Thailand.
 
-\`\`\`Go to England, stay with your family, when your business with your
+‘“Go to England, stay with your family, when your business with your
 family is finished, go stay with Ajahn Sumedho and help him out. If it
 gets too difficult, you can come back to Thailand if you really want to.
 

@@ -1,7 +1,9 @@
 Ajahn Chah Passes Away
 ======================
 
-On the morning of 16^th^ January, the Sangha in Britain received a brief
+*Issue 20, published in April 1992. Venerable Ṭhitapañño offers an account of the events at Wat Pah Pong immediately following Luang Por Chah's death.*
+
+On the morning of 16th January, the Sangha in Britain received a brief
 message from Wat Pah Nanachat to inform us of the death of Luang Por
 Chah. The Venerable Ajahn had been critically ill, paralyzed and
 rendered completely incapacitated by brain damage and numerous strokes
@@ -18,12 +20,12 @@ hospital many times, yet on each occasion he had miraculously recovered.
 However, reports soon began to reach us that his body was refusing to
 take food and the general state of his health was deteriorating.
 
-Early on the evening of 15^th^ January the doctors at the ICU realized
+Early on the evening of 15th January the doctors at the ICU realized
 that Luang Por’s condition had deteriorated to the extent that he was
 beyond medical assistance. At 10 p.m. Luang Por was taken by ambulance
 to his nursing *kuṭī* at Wat Pah Pong, in compliance with his previous
 request that he might pass away in his own monastery. It was at 5.20
-a.m. on 16^th^ January that the body of Luang Par Chah breathed its
+a.m. on 16th January that the body of Luang Par Chah breathed its
 last, and in an atmosphere of peace the life of a great Buddhist master
 came to its end.
 
@@ -78,7 +80,7 @@ atmosphere of the Wat, in contrast to the confusion and noise he had
 experienced at similar funerals.
 
 A visit from the King’s sister at this time seemed to presage the
-arrival of the King for the fiftieth day ceremonies on 6^th^ March. As
+arrival of the King for the fiftieth day ceremonies on 6th March. As
 always in Buddhism, however, especially in Thailand, nothing is certain.
 The hundredth day after the death of Luang Por will also be a day of
 considerable importance.

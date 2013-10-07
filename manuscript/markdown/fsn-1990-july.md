@@ -1,6 +1,8 @@
 Living with Luang Por
 =====================
 
+*Issue 13, published in July 1990. Further recollections by those who knew him.*
+
 ### Paul Breiter
 
 *Formerly Ven. Varapañño, writes of his early contact with Ajahn Chah

@@ -1,6 +1,8 @@
 Luang Por Chah’s Relics
 =======================
 
+*Issue 28, published in April 1994.*
+
 *In January 1994 Ajahn Sumedho and Ajahn Attapemo went to Wat Pah Pong
 in Thailand and took part in the final ceremonies to enshrine the
 Atthi-dhātu (relics) of Luang Por Chah. Ajahn Attapemo explains:*
@@ -15,7 +17,7 @@ blessing, gold necklaces, bracelets and rings were draped over the
 reliquaries. Some ladies even took their rings off their fingers to be
 enshrined for posterity. Later that day this chamber was sealed with a
 concrete lid and granite cap-stone. More than 30,000 people had gathered
-for the occasion. The final ceremony took place on 16^th^ January,
+for the occasion. The final ceremony took place on 16th January,
 exactly two years after Luang Por Chah’s death.
 
 His Majesty King Bhumiphol sent his Chief Privy Officer to lead the

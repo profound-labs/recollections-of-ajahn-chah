@@ -1,7 +1,9 @@
 Questions & Answers
 ===================
 
-There are those periods when our hearts happen to be absorbed in things
+*Issue 22, published in October 1992. Extracts from a conversation between Luang Por Chah and a lay Buddhist.*
+
+*Q:* There are those periods when our hearts happen to be absorbed in things
 and become blemished or darkened, but we are still aware of ourselves,
 such as when some form of greed, hatred, or delusion comes up. Although
 we know that these things are objectionable, we are unable to prevent
@@ -9,6 +11,7 @@ them from arising. Could it be said that even as we are aware of them,
 we are providing the basis for increased clinging and attachment, and
 maybe putting ourselves further back than where we started from?
 
+*Luang Por Chah:*
 That’s it! You must keep knowing them at that point; that’s the method
 of practice. I mean that simultaneously, we are both aware of them and
 repelled by them, but lacking the ability to resist them; they just

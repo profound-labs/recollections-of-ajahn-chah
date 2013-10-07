@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="RecollectionsOfAjahnChah" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <!-- ISBN -->
+    <dc:identifier id="RecollectionsOfAjahnChah" opf:scheme="ISBN">urn:isbn:000-0-000000-00-0</dc:identifier>
+    <!-- UUID generator: http://www.famkruithof.net/uuid/uuidgen -->
+    
+
+    <dc:title>Recollections of Ajahn Chah</dc:title>
+    <dc:rights></dc:rights>
+
+    <!-- BISAC Subject Headings List: http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php-->
+    <dc:subject>RELIGION / Buddhism / Theravada</dc:subject>
+
+    <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+
+    <dc:source>http://www.fsbooks.org/</dc:source>
+
+    <!-- List of contributors
+
+         See: MARC Code List for Relators: http://www.loc.gov/marc/relators/relaterm.html
+
+         Examples:
+
+         * Editor [edt]
+           Use for a person or organization who prepares for publication a work not primarily his/her own,
+           such as by elucidating text, adding introductory or other critical matter, or technically directing
+           an editorial staff.
+
+         * Cover designer [cov]
+           Use for a person or organization responsible for the graphic design of a book cover,
+           album cover, slipcase, box, container, etc. For a person or organization responsible
+           for the graphic design of an entire book, use Book designer; for book jackets, use Bookjacket designer.
+
+         * Translator [trl]
+           Use for a person or organization who renders a text from one language into another, or from an older
+           form of a language into the modern form.
+
+         -->
+
+    
+
+    <dc:publisher>Amaravati Publications</dc:publisher>
+    <dc:date opf:event="publication">2013-09-30</dc:date>
+
+    <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
+    <dc:language>en</dc:language>
+
+    <meta name="cover" content="cover-image" />
+
+  </metadata>
+
+  <!-- MANIFEST (mandatory)
+       List of all the resources of the book (XHTML, CSS, images,…).
+       The order of item elements in the manifest is NOT significant.
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.3 
+  -->
+
+  <manifest>
+    
+    <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
+    
+    <item href="stylesheets/style-epub.css" id="stylesheets-style-epub-css" media-type="text/css" />
+    
+    <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    
+    <item href="images/03_small.jpg" id="images-03-small-jpg" media-type="image/jpeg" />
+    
+    <item href="images/02_small.jpg" id="images-02-small-jpg" media-type="image/jpeg" />
+    
+    <item href="images/04_small.jpg" id="images-04-small-jpg" media-type="image/jpeg" />
+    
+    <item href="images/publisher-logo.jpg" id="images-publisher-logo-jpg" media-type="image/jpeg" />
+    
+    <item href="images/01_small.jpg" id="images-01-small-jpg" media-type="image/jpeg" />
+    
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    
+    <item href="chapters/fsn-2004-january.xhtml" id="chapter_some-final-words" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1994-april.xhtml" id="chapter_luang-por-chah-s-relics" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/part-3.xhtml" id="chapter_television-interview" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/interview-with-ajahn-vajiro.xhtml" id="chapter_interview-with-ajahn-vajiro" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1992-april-a-noble-life.xhtml" id="chapter_a-noble-life" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1994-july.xhtml" id="chapter_recollections-by-greg-klein" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-2007-july.xhtml" id="chapter_thirty-years-later" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/part-1.xhtml" id="chapter_interviews-with-senior-sangha-members" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1989-july.xhtml" id="chapter_gratitude-to-ajahn-chah" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/part-4.xhtml" id="chapter_a-recent-recollection" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1993-january.xhtml" id="chapter_questions-answers-ii" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1990-july.xhtml" id="chapter_living-with-luang-por" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/cover.xhtml" id="chapter_cover" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/part-2.xhtml" id="chapter_forest-sangha-newsletter-articles" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/being-with-ajahn-chah.xhtml" id="chapter_being-with-ajahn-chah" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1994-january.xhtml" id="chapter_recollections-by-jack-kornfield" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1992-october.xhtml" id="chapter_questions-answers" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1997-january.xhtml" id="chapter_timeless-teachings" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/luang-por-chah-memorial-week.xhtml" id="chapter_the-luang-por-chah-memorial-week" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1992-april-the-50th-day.xhtml" id="chapter_the-fiftieth-day-commemoration" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/copyright-amaravati.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1992-april-aj-chah-passes-away.xhtml" id="chapter_ajahn-chah-passes-away" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/fsn-1998-october.xhtml" id="chapter_ajahn-chah-s-birthday" media-type="application/xhtml+xml" />
+    
+    <item href="webfonts/sourcesanspro-light.ttf" id="webfonts-sourcesanspro-light-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-regular.ttf" id="webfonts-sourcesanspro-regular-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-italic.ttf" id="webfonts-sourcesanspro-italic-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-extralight.ttf" id="webfonts-sourcesanspro-extralight-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-lightitalic.ttf" id="webfonts-sourcesanspro-lightitalic-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/existence-light.ttf" id="webfonts-existence-light-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-bold.ttf" id="webfonts-sourcesanspro-bold-ttf" media-type="application/x-font-truetype" />
+    
+  </manifest>
+
+  <!-- SPINE (mandatory)
+
+       The spine element defines the default reading order of the content. It doesn't list every file in the manifest, 
+       just the reading order.
+
+       The value of the idref tag in the spine has to match the ID tag for that entry in the manifest.
+
+       For example, if you have the following reference in your manifest:
+
+          <item id="chapter-1" href="chapter01.xhtml" media-type="application/xhtml+xml" />
+
+       your spine entry would be:
+
+          <itemref idref="chapter-1" />
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.4
+
+       -->
+  <spine toc="ncx">
+    
+    <itemref idref='chapter_cover'  />
+    
+    <itemref idref='chapter_title-page'  />
+    
+    <itemref idref='chapter_contents'  />
+    
+    <itemref idref='chapter_copyright'  />
+    
+    <itemref idref='chapter_interviews-with-senior-sangha-members'  />
+    
+    <itemref idref='chapter_being-with-ajahn-chah'  />
+    
+    <itemref idref='chapter_forest-sangha-newsletter-articles'  />
+    
+    <itemref idref='chapter_gratitude-to-ajahn-chah'  />
+    
+    <itemref idref='chapter_living-with-luang-por'  />
+    
+    <itemref idref='chapter_ajahn-chah-passes-away'  />
+    
+    <itemref idref='chapter_the-fiftieth-day-commemoration'  />
+    
+    <itemref idref='chapter_a-noble-life'  />
+    
+    <itemref idref='chapter_questions-answers'  />
+    
+    <itemref idref='chapter_questions-answers-ii'  />
+    
+    <itemref idref='chapter_recollections-by-jack-kornfield'  />
+    
+    <itemref idref='chapter_luang-por-chah-s-relics'  />
+    
+    <itemref idref='chapter_recollections-by-greg-klein'  />
+    
+    <itemref idref='chapter_timeless-teachings'  />
+    
+    <itemref idref='chapter_ajahn-chah-s-birthday'  />
+    
+    <itemref idref='chapter_some-final-words'  />
+    
+    <itemref idref='chapter_thirty-years-later'  />
+    
+    <itemref idref='chapter_television-interview'  />
+    
+    <itemref idref='chapter_interview-with-ajahn-vajiro'  />
+    
+    <itemref idref='chapter_a-recent-recollection'  />
+    
+    <itemref idref='chapter_the-luang-por-chah-memorial-week'  />
+    
+  </spine>
+
+  <!-- GUIDE (optional, recommended by Apple)
+
+        The guide lets you specify the role of the book's files.
+
+        Available tags: cover, title-page, toc, index, glossary, acknowledgements, bibliography,
+        colophon, copyright-page, dedication, epigraph, foreword, loi (list of illustrations),
+        lot (list of tables), notes, preface, and text.
+
+        http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.6
+
+       -->
+  <guide>
+    
+    <reference href='chapters/cover.xhtml' title="Cover" type='cover' />
+    
+    <reference href='chapters/titlepage.xhtml' title="Title Page" type='title-page' />
+    
+    <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
+    
+    <reference href='chapters/copyright-amaravati.xhtml' title="Copyright" type='copyright-page' />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </guide>
+
+</package>

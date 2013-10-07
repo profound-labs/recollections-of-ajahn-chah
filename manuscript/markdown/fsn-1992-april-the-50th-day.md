@@ -1,7 +1,9 @@
 The Fiftieth Day Commemoration
 ==============================
 
-### Wat Pah Nanachat, 6^th^ March
+*Issue 20, published in April 1992. Ven. Ñāṇavīro offers a report of the commemorative services at Wat Pah Pong fifty days after the death of Venerable Ajahn Chah.*
+
+### Wat Pah Nanachat, 6th March
 
 At 1 p.m. 300 laypeople and 200 monks and nuns gathered in the new
 *sāla*. The floor is polished granite and the walls are partially

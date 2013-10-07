@@ -1,7 +1,9 @@
-Gratitude
+Gratitude to Ajahn Chah
 =========
 
-> *June 17^th^ was the 71^st^ birthday of, Venerable Ajahn Chah,
+*Issue 9, published in July 1989.*
+
+> *June 17th was the 71st birthday of, Venerable Ajahn Chah,
 > spiritual teacher of over 80 forest monasteries in Thailand, Britain
 > and around the world. As is customary in the monasteries in England,
 > the day’s practice was offered in gratitude to him and for his
@@ -9,10 +11,10 @@ Gratitude
 > an occasion for readers to recollect what he has made possible for all
 > of us.*
 >
-> Venerable Jayasāro was formally abbot at Wat Pah Nanachat. In 1988 he
+> *Venerable Jayasāro was formally abbot at Wat Pah Nanachat. In 1988 he
 > visited the UK as a translator for Venerable Chao Khun Paññananda. The
 > following reflections on Ajahn Chah’s life are taken from a talk given
-> at Amaravati Buddhist Centre in June of that year.
+> at Amaravati Buddhist Centre in June of that year.*
 
 My own first meeting with Ajahn Chah was on the full moon of December
 1978. I had spent the Rains Retreat of that year as an eight-precept lay

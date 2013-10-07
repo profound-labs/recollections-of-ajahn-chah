@@ -1,6 +1,8 @@
 Timeless Teachings
 ==================
 
+*Issue 39, published in January 1997.*
+
 *These Dhamma reflections were published to commemorate the fifth
 anniversary of Luang Por Chah’s death. They come from a collection of
 his teachings assembled by Paul Breiter during the 70’s. They are

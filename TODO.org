@@ -1,0 +1,22 @@
+
+ISBN for Ebooks from ABM, Add to copyright page
+
+cover image
+
+ABM logo
+
+* Email ABM Pubs:
+
+  I scrolled through the Ebooks and it seemed consistent with the PDF.
+  If any mistakes are discovered please let me know and I'll fix it.
+
+  The fonts used in the EPUB and MOBI are free, the PDF 
+
+  The files are archived and changes are tracked at the link below.
+
+  Either now or in future you can obtain the latest master files for
+  both the PDF and Ebooks at:
+
+  bitbucket/ratanagiri
+
+

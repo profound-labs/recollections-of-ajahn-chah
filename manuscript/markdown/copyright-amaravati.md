@@ -1,3 +1,5 @@
+Recollections of Ajahn Chah
+
 For Free Distribution\\
 *Sabbadānaṃ dhammadānaṃ jināti*\\
 The gift of the Dhamma surpasses all other gifts.
@@ -18,7 +20,7 @@ This book is available for free download at\\
 
 ISBN
 
-Copyright ©  AMARAVATI PUBLICATIONS
+Copyright (c) AMARAVATI PUBLICATIONS
 
 Cover design by Nicholas Halliday
 
@@ -29,8 +31,3 @@ This work is licensed under a Creative Commons
 Attribution-NonCommercial-NoDerivs 3.0 Unported Licence.\\
 [http://creativecommons.org/licenses/by-nc-nd/3.0/](http://creativecommons.org/licenses/by-nc-nd/3.0/)
 
-See page FIXME:pageref for more details on your rights and restrictions
-under this licence.
-
-Produced with the LaTeX typesetting system. Typeset in Gentium,
-distributed by SIL International, and Crimson Text, by Sebastian Kosch.

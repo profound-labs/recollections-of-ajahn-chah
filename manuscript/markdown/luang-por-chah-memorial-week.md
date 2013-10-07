@@ -1,15 +1,17 @@
-The Luang Por Chah
+The Luang Por Chah Memorial Week
 ==================
 
+*Recollections by Ajahn Siripañño.*
+
 > *Every year during the week leading up to the anniversary of Ajahn
-> Chah’s death on 16^th^ January, there is a great gathering at his
+> Chah’s death on 16th January, there is a great gathering at his
 > monastery in north-east Thailand, when many of his disciples come
 > together for six days of Dhamma practice. Ajahn Siripañño, the senior
 > monk at Wat Dtao Dam at the time of writing, provides the following
 > account from his perspective of living as a monk in Ajahn Chah’s
 > branch monasteries in Thailand.*
 
-12^th^ January 2009, and all over Thailand motorbikes, cars, pick-up
+12th January 2009, and all over Thailand motorbikes, cars, pick-up
 trucks, mini-vans and tour buses are making their way to the
 north-eastern province of Ubon, heading for a certain monastery – Wat
 Pah Pong. Those making the journey are looking to spend a week imbibing
@@ -34,7 +36,7 @@ practise and hear the Dhamma, some to give and participate in large
 measure or small, and some come just to check out the scene, and enjoy
 the free food available for all.
 
-Luang Por Chah passed away on 16^th^ January 1992, and every year since
+Luang Por Chah passed away on 16th January 1992, and every year since
 his funeral on that date the following year, a gathering has taken place
 at his monastery Wat Pah Pong. The number of participants keeps
 increasing. This year saw over a thousand monks and novices and five
@@ -94,7 +96,7 @@ He outlines the daily routine, emphasizing the need to be harmonious and
 helpful as we will be spending a week living together in such large
 numbers. Meditation, too, is taught in brief.
 
-\`Breathe in and out. See that it’s just nature doing its job, breath
+‘Breathe in and out. See that it’s just nature doing its job, breath
 coming in and going out. When we understand that our awareness of this
 is an aspect of our mind, we see that even this is a *saṅkhata dhamma*
 (a conditioned phenomenon). There is no self in there. The mind
@@ -152,7 +154,7 @@ distribution tents set up – over a hundred different stalls and marquees
 sponsored by individuals, branch monasteries, government offices and
 other groups. For the next week, almost round the clock there will be
 all kinds of food and drink available for anyone who wants them. Luang
-Por Kampan Ṭhitadhammo mentioned this in the talk he gave on 15^th^
+Por Kampan Ṭhitadhammo mentioned this in the talk he gave on 15th
 January.
 
 ‘It’s as if the whole country is coming together here. This is the
@@ -331,7 +333,7 @@ new one wasn’t an option. But it’s the love and respect for Luang Por
 Chah that come across most vividly from these elder-most senior monks,
 as expressed in a talk from Ajahn Anek.
 
-\`Luang Por wished us well from head to toe. Even if our minds didn’t
+‘Luang Por wished us well from head to toe. Even if our minds didn’t
 like what he was teaching us, our actions had to comply. We were like
 children bathing in a cesspit. Our loving father comes along and says,
 ‘Children, what are you doing that for?’ ‘It’s fun.’ ‘Get out. Now!’ And
@@ -341,7 +343,7 @@ the cesspit. But Luang Por never did. With just his instruction he was
 able to extract poison from our hearts. It was like taking a bitter
 medicine which tasted awful, but we knew it would save our lives …
 
-\`Luang Por’s teaching spread far and wide: Patiently endure. Endure
+‘Luang Por’s teaching spread far and wide: Patiently endure. Endure
 with patience. Dare to be patient. Dare to endure. *Khantī paramaṃ tapo
 tītikkhā:* patient endurance is the supreme incinerator of defilements.
 *Khantī,* or patient endurance, is like a fire that no coal or
@@ -431,7 +433,7 @@ buoyed by the company of so many people sharing the space and practising
 in the same way. Surely that’s what it is – though maybe it’s something
 else….
 
-### 16^th^ January
+### 16th January
 
 The big day arrives. As if to acknowledge one of the unique aspects of
 Luang Por’s legacy, the international Sangha, the morning Dhamma talk

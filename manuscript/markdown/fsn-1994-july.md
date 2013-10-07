@@ -1,14 +1,16 @@
 Recollections by Greg Klein
 ===========================
 
-*Greg Klein (Ajahn Ānando) 3^rd^ November 1946 – 11^th^ May 1994. Below,
+*Issue 29, published in July 1994.*
+
+*Greg Klein (Ajahn Ānando) 3rd November 1946 – 11th May 1994. Below,
 Ajahn Sucitto remembers Greg Klein, whose ashes were interred at
-Cittaviveka on 17^th^ July, when a plaque he had had made was also
+Cittaviveka on 17th July, when a plaque he had had made was also
 laid.*
 
 Something he wrote about his time helping to nurse Luang Por Chah in his
 terminal illness not only reflects his own interests, but sums up the
-life mystery well. \`I like the early morning, the night shift as they
+life mystery well. ‘I like the early morning, the night shift as they
 call it, very much, because one can spend time alone with Luang Por.
 From 2 a.m. until maybe 5 a.m. is the time when he seems to sleep the
 most peacefully. Then a rather busy time follows; depending on what day

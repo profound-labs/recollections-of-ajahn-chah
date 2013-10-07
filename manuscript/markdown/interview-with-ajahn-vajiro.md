@@ -1,18 +1,22 @@
 Interview with Ajahn Vajiro
 ===========================
 
-Comment avez-vous découvert cette tradition des moines de la forêt?How
-did you come across the Forest Monk tradition?
+*Conducted by a French television channel.*
 
-Through an interest in meditation I heard about the Forest Tradition in
+*Q: Comment avez-vous découvert cette tradition des moines de la forêt?*
+
+*Q: How did you come across the Forest Monk tradition?*
+
+*A:* Through an interest in meditation I heard about the Forest Tradition in
 1975. In 1977 I heard that there were Forest Monks in London where I was
 living, so I went to see them. They had been invited to stay in England
 to live as *bhikkhus*.
 
-Vous connaissiez bien Ajan Chah, quel souvenir en gardez-vous?You knew
-Ajahn Chah well. What memories do you have of him?
+*Q: Vous connaissiez bien Ajan Chah, quel souvenir en gardez-vous?*
 
-I cannot claim to have known him well. I did not speak Thai at all then
+*Q: You knew Ajahn Chah well. What memories do you have of him?*
+
+*A:* I cannot claim to have known him well. I did not speak Thai at all then
 and never lived with him for a long time.
 
 I met him in 1977 during his first trip outside of Thailand. I was
@@ -64,10 +68,11 @@ remind us when it was born and in what circumstances?
 The Forest Monk tradition is not confined to Thailand and would have
 existed in some form from the time of the Lord Buddha.
 
-Est-ce qu’on peut définir la particularité de cette tradition?Can we
-define the specificities of this tradition?
+*Q: Est-ce qu’on peut définir la particularité de cette tradition?*
 
-The particular branch of the Forest Tradition to which I belong, Wat Pah
+*Q: Can we define the specificities of this tradition?*
+
+*A:* The particular branch of the Forest Tradition to which I belong, Wat Pah
 Pong, is distinguished by its working as a community. It works together.
 It seems to be Ajahn Chah’s great offering, the offering of encouraging
 people to work together in community. He used the Vinaya, the Training
@@ -94,15 +99,17 @@ maybe 50. Outside Thailand the largest in number of monastics is
 probably Amaravati Buddhist Monastery.[^1] We all consider ourselves
 part of this family.
 
-Le maître a un rôle très important dans cette tradition…The teacher has
-a very important role in this tradition …
+*Q: Le maître a un rôle très important dans cette tradition…*
 
-The teacher has an important role, yes. Like the father.
+*Q: The teacher has a very important role in this tradition …*
 
-Quelles sont les règles qu’un moine de la forêt doit observer?What are
-the rules a forest monk should observe?
+*A:* The teacher has an important role, yes. Like the father.
 
-There are four which if not observed, automatically, with immediate
+*Q: Quelles sont les règles qu’un moine de la forêt doit observer?*
+
+*Q: What are the rules a forest monk should observe?*
+
+*A:* There are four which if not observed, automatically, with immediate
 effect and without ceremony, disqualify a man from continuing the
 training.
 
@@ -120,11 +127,12 @@ Buddhist monks with a connection to the training at the time of the Lord
 Buddha, is not to own or control personal money or that which counts as
 money.
 
-Comment la communauté des moines de la forêt s’est-elle créée puis
-a-t-elle évolué en Angleterre?How was the Forest Sangha created in
-England and how did it develop?
+*Q: Comment la communauté des moines de la forêt s’est-elle créée puis
+a-t-elle évolué en Angleterre?*
 
-The Forest Sangha has evolved in the UK through the confidence of and
+*Q: How was the Forest Sangha created in England and how did it develop?*
+
+*A:* The Forest Sangha has evolved in the UK through the confidence of and
 confidence in the disciples of Ajahn Chah, particularly Ajahn Sumedho.
 He has allowed communities of monastics to grow in the UK. The
 confidence has been that if the monastics are living in accordance with
@@ -140,20 +148,23 @@ generators of an attitude which cultivates reflection or wisdom (they
 are places where people meditate, examine their universe from the inside
 and practise being enlightened).
 
-Quelles ont été les principales difficultés?What were the main
-difficulties?
+*Q: Quelles ont été les principales difficultés?*
 
-The principal difficulty is that of attachment to opinions and views,
+*Q: What were the main difficulties?*
+
+*A:* The principal difficulty is that of attachment to opinions and views,
 and the pain that follows.
 
-Vous avez participé, au début des années 80, à l’établissement du
+*Q: Vous avez participé, au début des années 80, à l’établissement du
 monastère d’Amaravati, en Angleterre… le premier monastère de forêt en
 Occident… Est-ce que cela n’a pas été trop compliqué? Les réactions
-ont-elles été favorables? You took part at the beginning of the 80’s in
-the establishment of Amaravati, the first forest monastery in the West.
-Wasn’t that too complicated? Was the public response positive?
+ont-elles été favorables?*
 
-Amaravati was not the first forest monastery, that was Chithurst Forest
+*Q: You took part at the beginning of the 80’s in
+the establishment of Amaravati, the first forest monastery in the West.
+Wasn’t that too complicated? Was the public response positive?*
+
+*A:* Amaravati was not the first forest monastery, that was Chithurst Forest
 Monastery, Cittaviveka.[^2]
 
 Yes, beginning any monastery is difficult. Not much more difficult in
@@ -164,11 +175,12 @@ attract more cars? There were other worries that the strangeness of the
 clothing and customs would somehow undermine what was already there.
 Again a clinging to views and opinions.
 
-Quelles sont les grandes différences avec la communauté des moines de la
-forêt en Thaïlande?What are the main differences between the Western
-Sangha and the Thai one?
+*Q: Quelles sont les grandes différences avec la communauté des moines de la
+forêt en Thaïlande?*
 
-The main difference is maybe the timing of the meal. In Thailand it is
+*Q: What are the main differences between the Western Sangha and the Thai one?*
+
+*A:* The main difference is maybe the timing of the meal. In Thailand it is
 long established that the meal is around 08.30 to maybe 09.00, and that
 will be the meal for the day. Outside Thailand the meal is usually a
 little later, maybe 10, 10.30 or even 11.30. This is because it is
@@ -176,11 +188,12 @@ thought that this will make it easier for people to come to the
 monastery to be part of that occasion. Of course there are some
 differences of dress to accommodate the differences in climate.
 
-Les échanges, les liens entre les deux communautés sont-ils aussi forts
-aujourd’hui?Are the links between the two communities still as strong
-today?
+*Q: Les échanges, les liens entre les deux communautés sont-ils aussi forts
+aujourd’hui?*
 
-The links nowadays are still strong, almost stronger in the last few
+*Q: Are the links between the two communities still as strong today?*
+
+*A:* The links nowadays are still strong, almost stronger in the last few
 years than they were in the early 80’s and mid-80’s. Communication is
 now a lot less expensive.
 

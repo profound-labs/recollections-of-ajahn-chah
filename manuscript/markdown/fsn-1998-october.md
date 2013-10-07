@@ -1,6 +1,8 @@
 Ajahn Chah’s Birthday
 =====================
 
+*Issue 46, published in October 1998.*
+
 > *Ajahn Viradhammo, who was visiting Thailand, passed on a letter that
 > he had written to the New Zealand Sangha about the celebration of
 > Ajahn Chah’s birthday at Wat Pah Pong some time before Luang Por
@@ -9,7 +11,7 @@ Ajahn Chah’s Birthday
 The birthday celebrations at Wat Nong Pah Pong were a magnificent
 tribute to Luang Por. There were over 600 *bhikkhus* and *sāmaṇeras*,
 and a sea of white-robed nuns and laypeople around his *kuṭī* on the
-afternoon of the 16^th^. Thānavaro, you will remember where you sat when
+afternoon of the 16th. Thānavaro, you will remember where you sat when
 Luang Por was brought outside in his wheelchair. That grassy area was
 almost entirely filled with the ochre robe.
 

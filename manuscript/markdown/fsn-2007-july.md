@@ -1,12 +1,14 @@
 Thirty Years Later
 ==================
 
+*Issue 80, published in July 2007.*
+
 ### Questions and answers with Ajahn Sumedho
 
-It’s 30 years since you came to England with Luang Por Chah. Why did you
+*Q:* It’s 30 years since you came to England with Luang Por Chah. Why did you
 leave Thailand?
 
-In 1975 the Americans left Vietnam, Laos and Cambodia – French
+*A:* In 1975 the Americans left Vietnam, Laos and Cambodia – French
 Indochina. Those countries became communist, and there was a ‘domino
 theory’ everybody seemed to think would happen: that once those
 countries fell, the whole of south-east Asia would follow. There was a
@@ -39,12 +41,12 @@ came every evening to talk to me. Then he asked if I would consider
 living in England, and I said, ‘Well, I can’t really answer that
 question, you’ll have to ask my teacher, Luang Por Chah, in Thailand.’
 And this he did; he came a few months later. Luang Por Chah and I were
-invited to England, and we arrived on 6^th^ May 1977.
+invited to England, and we arrived on 6th May 1977.
 
-And your idea was that if Thailand fell to the communists, this would be
+*Q:* And your idea was that if Thailand fell to the communists, this would be
 a way of preserving this monastic tradition?
 
-Yes. And the thing that impressed me was that the English Sangha Trust
+*A:* Yes. And the thing that impressed me was that the English Sangha Trust
 had already been established 20 years before, in 1956, and though it had
 tried all kinds of things, it was essentially a trust set up to support
 Buddhist monks in England – so it was for the Sangha. There was a
@@ -62,9 +64,9 @@ Westerners, and in inspiring Western men to become monks. Wat Pah
 Nanachat was really quite a work of genius at the time. There’d been
 nothing like it. That was Luang Por Chah’s idea.
 
-What did he think about the idea of moving out of Thailand?
+*Q:* What did he think about the idea of moving out of Thailand?
 
-When I went back to Thailand I told him about it, and of course he never
+*A:* When I went back to Thailand I told him about it, and of course he never
 signified one way or the other in situations like that. He seemed
 interested, but didn’t feel a great need to do anything with it. That’s
 why it was important for George Sharp to visit, so that Luang Por Chah
@@ -83,15 +85,15 @@ tradition, so I wasn’t just a neophyte – although in terms of the way we
 look at things now, when I came to England I had only ten *Vassa*. I
 don’t think any ten-*vassa* monk now would consider doing such an
 operation! Ajahn Khemadhammo came a couple of weeks before, and then
-Ajahn Chah and I came together, arriving on 6^th^ May. Later Ajahns
+Ajahn Chah and I came together, arriving on 6th May. Later Ajahns
 Ānando and Viradhammo dropped in, because they had gone to visit their
 families in North America. During that time I suggested they stay, and
 Ajahn Chah agreed, so they stayed on with me and there were four of us.
 
-Did Ajahn Chah make a decision at some point, that yes, OK, it would
+*Q:* Did Ajahn Chah make a decision at some point, that yes, OK, it would
 work?
 
-Well, when George Sharp came to see him in Thailand Ajahn Chah put him
+*A:* Well, when George Sharp came to see him in Thailand Ajahn Chah put him
 through a kind of test. He was looking at George, trying to figure out
 what sort of person he was. George had to eat the leftovers at the end
 of the line, out of old enamel bowls with chips in them and sitting on
@@ -131,10 +133,10 @@ stay at the Hampstead Vihāra first, to see what would happen. And it was
 good enough in the beginning. But the aim was always to move out of
 there, to sell it off and find a forest.
 
-Did you feel confident that it would work? What were your feelings at
+*Q:* Did you feel confident that it would work? What were your feelings at
 that time, after Luang Por Chah left?
 
-I didn’t know what was going to happen, and I wasn’t aware of the kinds
+*A:* I didn’t know what was going to happen, and I wasn’t aware of the kinds
 of problems I was moving into, with the state of the English Sangha
 Trust. I was quite naïve really. But I appreciated George Sharp’s
 efforts and intentions, and the legal set-up seemed so good: a trust
@@ -152,9 +154,9 @@ But when Luang Por Chah left – he was only there for a month – he made
 me promise not to come back for five years. He said, ‘You can’t come
 back to Thailand for five years.’
 
-So he believed in the project at that point?
+*Q:* So he believed in the project at that point?
 
-He seemed to. He was quite supportive in every way. So I said I would do
+*A:* He seemed to. He was quite supportive in every way. So I said I would do
 that, and I planned to stay.
 
 ### George Sharp

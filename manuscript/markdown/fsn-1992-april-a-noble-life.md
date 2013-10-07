@@ -1,14 +1,16 @@
 A Noble Life
 ============
 
-*17^th^ June, 1918 – 16^th^ January 16, 1992*
+*Issue 20, published in April 1992.*
 
-Venerable Ajahn Chah was born on 17^th^ June 1918 in a small village
+*17th June, 1918 – 16th January 16, 1992*
+
+Venerable Ajahn Chah was born on 17th June 1918 in a small village
 near the town of Ubon Rajathani, north-east Thailand. Between the ages
 of 9 and 17 he was a *sāmaṇera* (novice monk), during which time he
 received his basic schooling, before returning to lay life to help his
 parents on the farm. At the age of 20, however, he decided to resume
-monastic life, and on 26^th^ April, 1939 he received *upasampadā*
+monastic life, and on 26th April, 1939 he received *upasampadā*
 (*bhikkhu* ordination).
 
 Ajahn Chah’s early monastic life followed a traditional pattern of

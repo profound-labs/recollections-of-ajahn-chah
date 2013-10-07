@@ -1,6 +1,8 @@
 Recollections by Jack Kornfield
 ===============================
 
+*Issue 27, published in January 1994.*
+
 > ‘I was enormously blessed to meet Ajahn Sumedho in 1967 at an old
 > ruined Cambodian temple on a mountain-top in Sakolnakorn, Thailand.
 > With his inspiration I went to see Ajahn Chah at Wat Pah Pong, and
