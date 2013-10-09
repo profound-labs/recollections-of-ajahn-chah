@@ -4,7 +4,7 @@ Recollections of Ajahn Chah
 
 by Various
 
-Paperback status: **COMPLETED**\\
+Paperback status: **COMPLETED**  
 Ebook status: **Work in progress**
 
 Find the final PDF, EPUB and MOBI files in the `publish/final/` folder.
