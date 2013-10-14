@@ -4,7 +4,8 @@
 
 bookid: "RecollectionsOfAjahnChah"
 version: v1.0
-isbn: "000-0-000000-00-0"
+isbn: "978-1-870205-86-3"
+date: 2013-10-14
 
 # Level 1, 2, 3
 section_names: [ "Part", "Chapter", "Section" ]

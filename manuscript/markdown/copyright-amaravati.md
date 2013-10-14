@@ -18,7 +18,7 @@ Northumberland, Great Britain\\
 This book is available for free download at\\
 [www.forestsanghabooks.org](http://forestsanghabooks.org/)
 
-ISBN
+ISBN 978-1-870205-86-3
 
 Copyright (c) AMARAVATI PUBLICATIONS
 

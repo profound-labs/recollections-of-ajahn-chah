@@ -5,13 +5,13 @@ Recollections of Ajahn Chah
 by Various
 
 Paperback status: **COMPLETED**  
-Ebook status: **Work in progress**
+Ebook status: **COMPLETED**
 
 Second edition
 
 ISBN for paperback: `978-1-870205-65-8`
 
-ISBN for ebooks: ...
+ISBN for ebooks: `978-1-870205-86-3`
 
 Find the final PDF, EPUB and MOBI files in the `publish/final/` folder.
 
