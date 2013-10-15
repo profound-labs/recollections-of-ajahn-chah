@@ -14,76 +14,77 @@
   </docTitle>
   <navMap>
     <navPoint id='nav1' playOrder='1'>
-<navLabel><text>Copyright</text></navLabel>
-<content src='chapters/copyright-amaravati.xhtml'/></navPoint>
-<navPoint id='nav2' playOrder='2'>
 <navLabel><text>Title Page</text></navLabel>
 <content src='chapters/titlepage.xhtml'/></navPoint>
-<navPoint id='nav3' playOrder='3'>
+<navPoint id='nav2' playOrder='2'>
 <navLabel><text>Contents</text></navLabel>
 <content src='chapters/toc.xhtml'/></navPoint>
-<navPoint id='nav4' playOrder='4'>
+<navPoint id='nav3' playOrder='3'>
 <navLabel><text>Interviews with Senior Sangha Members</text></navLabel>
-<content src='chapters/part-1.xhtml'/><navPoint id='nav5' playOrder='5'>
+<content src='chapters/part-1.xhtml'/><navPoint id='nav4' playOrder='4'>
 <navLabel><text>Being with Ajahn Chah</text></navLabel>
 <content src='chapters/being-with-ajahn-chah.xhtml'/></navPoint>
 </navPoint>
-<navPoint id='nav6' playOrder='6'>
+<navPoint id='nav5' playOrder='5'>
 <navLabel><text>Forest Sangha Newsletter Articles</text></navLabel>
-<content src='chapters/part-2.xhtml'/><navPoint id='nav7' playOrder='7'>
+<content src='chapters/part-2.xhtml'/><navPoint id='nav6' playOrder='6'>
 <navLabel><text>Gratitude to Ajahn Chah</text></navLabel>
 <content src='chapters/fsn-1989-july.xhtml'/></navPoint>
-<navPoint id='nav8' playOrder='8'>
+<navPoint id='nav7' playOrder='7'>
 <navLabel><text>Living with Luang Por</text></navLabel>
 <content src='chapters/fsn-1990-july.xhtml'/></navPoint>
-<navPoint id='nav9' playOrder='9'>
+<navPoint id='nav8' playOrder='8'>
 <navLabel><text>Ajahn Chah Passes Away</text></navLabel>
 <content src='chapters/fsn-1992-april-aj-chah-passes-away.xhtml'/></navPoint>
-<navPoint id='nav10' playOrder='10'>
+<navPoint id='nav9' playOrder='9'>
 <navLabel><text>The Fiftieth Day Commemoration</text></navLabel>
 <content src='chapters/fsn-1992-april-the-50th-day.xhtml'/></navPoint>
-<navPoint id='nav11' playOrder='11'>
+<navPoint id='nav10' playOrder='10'>
 <navLabel><text>A Noble Life</text></navLabel>
 <content src='chapters/fsn-1992-april-a-noble-life.xhtml'/></navPoint>
-<navPoint id='nav12' playOrder='12'>
-<navLabel><text>Questions & Answers</text></navLabel>
+<navPoint id='nav11' playOrder='11'>
+<navLabel><text>Questions &amp; Answers</text></navLabel>
 <content src='chapters/fsn-1992-october.xhtml'/></navPoint>
-<navPoint id='nav13' playOrder='13'>
-<navLabel><text>Questions & Answers II</text></navLabel>
+<navPoint id='nav12' playOrder='12'>
+<navLabel><text>Questions &amp; Answers II</text></navLabel>
 <content src='chapters/fsn-1993-january.xhtml'/></navPoint>
-<navPoint id='nav14' playOrder='14'>
+<navPoint id='nav13' playOrder='13'>
 <navLabel><text>Recollections by Jack Kornfield</text></navLabel>
 <content src='chapters/fsn-1994-january.xhtml'/></navPoint>
-<navPoint id='nav15' playOrder='15'>
+<navPoint id='nav14' playOrder='14'>
 <navLabel><text>Luang Por Chah’s Relics</text></navLabel>
 <content src='chapters/fsn-1994-april.xhtml'/></navPoint>
-<navPoint id='nav16' playOrder='16'>
+<navPoint id='nav15' playOrder='15'>
 <navLabel><text>Recollections by Greg Klein</text></navLabel>
 <content src='chapters/fsn-1994-july.xhtml'/></navPoint>
-<navPoint id='nav17' playOrder='17'>
+<navPoint id='nav16' playOrder='16'>
 <navLabel><text>Timeless Teachings</text></navLabel>
 <content src='chapters/fsn-1997-january.xhtml'/></navPoint>
-<navPoint id='nav18' playOrder='18'>
+<navPoint id='nav17' playOrder='17'>
 <navLabel><text>Ajahn Chah’s Birthday</text></navLabel>
 <content src='chapters/fsn-1998-october.xhtml'/></navPoint>
-<navPoint id='nav19' playOrder='19'>
+<navPoint id='nav18' playOrder='18'>
 <navLabel><text>Some Final Words</text></navLabel>
 <content src='chapters/fsn-2004-january.xhtml'/></navPoint>
-<navPoint id='nav20' playOrder='20'>
+<navPoint id='nav19' playOrder='19'>
 <navLabel><text>Thirty Years Later</text></navLabel>
 <content src='chapters/fsn-2007-july.xhtml'/></navPoint>
 </navPoint>
-<navPoint id='nav21' playOrder='21'>
+<navPoint id='nav20' playOrder='20'>
 <navLabel><text>Television Interview</text></navLabel>
-<content src='chapters/part-3.xhtml'/><navPoint id='nav22' playOrder='22'>
+<content src='chapters/part-3.xhtml'/><navPoint id='nav21' playOrder='21'>
 <navLabel><text>Interview with Ajahn Vajiro</text></navLabel>
 <content src='chapters/interview-with-ajahn-vajiro.xhtml'/></navPoint>
 </navPoint>
-<navPoint id='nav23' playOrder='23'>
+<navPoint id='nav22' playOrder='22'>
 <navLabel><text>A Recent Recollection</text></navLabel>
-<content src='chapters/part-4.xhtml'/><navPoint id='nav24' playOrder='24'>
+<content src='chapters/part-4.xhtml'/><navPoint id='nav23' playOrder='23'>
 <navLabel><text>The Luang Por Chah Memorial Week</text></navLabel>
 <content src='chapters/luang-por-chah-memorial-week.xhtml'/></navPoint>
+</navPoint>
+<navPoint id='nav24' playOrder='24'>
+<navLabel><text>Copyright</text></navLabel>
+<content src='chapters/copyright-amaravati.xhtml'/></navPoint>
 
   </navMap>
 </ncx>

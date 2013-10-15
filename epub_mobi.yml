@@ -5,7 +5,7 @@
 bookid: "RecollectionsOfAjahnChah"
 version: v1.0
 isbn: "978-1-870205-86-3"
-date: 2013-10-14
+date: 2013-10-15
 
 # Level 1, 2, 3
 section_names: [ "Part", "Chapter", "Section" ]
@@ -15,7 +15,6 @@ toc:
   - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
   - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
-  - { title: "Copyright", src: 'copyright-amaravati.md', type: copyright-page }
   - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
   - { the_matter: mainmatter, section_number: 1 }
@@ -40,6 +39,8 @@ toc:
   - { level: 2, src: "interview-with-ajahn-vajiro.md" }
   - { title: "A Recent Recollection", src: "part-4.html", class: part-page }
   - { level: 2, src: "luang-por-chah-memorial-week.md" }
+  - { the_matter: backmatter }
+  - { title: "Copyright", src: 'copyright-amaravati.md.erb', type: copyright-page }
 
 cover_image: "cover.jpg"
 exclude_assets: [ "01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg", "06.jpg", "07.jpg", "cover.xcf" ]

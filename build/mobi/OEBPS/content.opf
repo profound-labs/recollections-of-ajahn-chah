@@ -42,7 +42,7 @@
     
 
     <dc:publisher>Amaravati Publications</dc:publisher>
-    <dc:date opf:event="publication">2013-10-14</dc:date>
+    <dc:date opf:event="publication">2013-10-15</dc:date>
 
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
     <dc:language>en</dc:language>
@@ -63,6 +63,8 @@
     <item href="stylesheets/style-mobi.css" id="stylesheets-style-mobi-css" media-type="text/css" />
     
     <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
+    
+    <item href="images/CCLogo.jpg" id="images-cclogo-jpg" media-type="image/jpeg" />
     
     <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
     
@@ -98,7 +100,7 @@
     
     <item href="chapters/part-4.xhtml" id="chapter_a-recent-recollection" media-type="application/xhtml+xml" />
     
-    <item href="chapters/fsn-1993-january.xhtml" id="chapter_questions-answers-ii" media-type="application/xhtml+xml" />
+    <item href="chapters/fsn-1993-january.xhtml" id="chapter_questions-amp-answers-ii" media-type="application/xhtml+xml" />
     
     <item href="chapters/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
     
@@ -110,7 +112,7 @@
     
     <item href="chapters/fsn-1994-january.xhtml" id="chapter_recollections-by-jack-kornfield" media-type="application/xhtml+xml" />
     
-    <item href="chapters/fsn-1992-october.xhtml" id="chapter_questions-answers" media-type="application/xhtml+xml" />
+    <item href="chapters/fsn-1992-october.xhtml" id="chapter_questions-amp-answers" media-type="application/xhtml+xml" />
     
     <item href="chapters/fsn-1997-january.xhtml" id="chapter_timeless-teachings" media-type="application/xhtml+xml" />
     
@@ -162,8 +164,6 @@
        -->
   <spine toc="ncx">
     
-    <itemref idref='chapter_copyright'  />
-    
     <itemref idref='chapter_title-page'  />
     
     <itemref idref='chapter_contents'  />
@@ -184,9 +184,9 @@
     
     <itemref idref='chapter_a-noble-life'  />
     
-    <itemref idref='chapter_questions-answers'  />
+    <itemref idref='chapter_questions-amp-answers'  />
     
-    <itemref idref='chapter_questions-answers-ii'  />
+    <itemref idref='chapter_questions-amp-answers-ii'  />
     
     <itemref idref='chapter_recollections-by-jack-kornfield'  />
     
@@ -210,6 +210,8 @@
     
     <itemref idref='chapter_the-luang-por-chah-memorial-week'  />
     
+    <itemref idref='chapter_copyright'  />
+    
   </spine>
 
   <!-- GUIDE (optional, recommended by Apple)
@@ -224,8 +226,6 @@
 
        -->
   <guide>
-    
-    <reference href='chapters/copyright-amaravati.xhtml' title="Copyright" type='copyright-page' />
     
     <reference href='chapters/titlepage.xhtml' title="Title Page" type='text' />
     
@@ -272,6 +272,8 @@
     
     
     
+    
+    <reference href='chapters/copyright-amaravati.xhtml' title="Copyright" type='copyright-page' />
     
   </guide>
 

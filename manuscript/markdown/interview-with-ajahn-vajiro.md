@@ -165,7 +165,7 @@ the establishment of Amaravati, the first forest monastery in the West.
 Wasn’t that too complicated? Was the public response positive?*
 
 *A:* Amaravati was not the first forest monastery, that was Chithurst Forest
-Monastery, Cittaviveka.[^2]
+Monastery, Cittaviveka.[^citta]
 
 Yes, beginning any monastery is difficult. Not much more difficult in
 the West than in the East. A little different. When something a little
@@ -199,4 +199,4 @@ now a lot less expensive.
 
 [^1]: [www.forestsangha.org/monasteries](http://forestsangha.org/monasteries)
 
-[^2]: [www.cittaviveka.org](http://cittaviveka.org)
+[^citta]: [www.cittaviveka.org](http://cittaviveka.org)
