@@ -3,19 +3,46 @@ Recollections of Ajahn Chah
 
 by Various
 
-Paperback status: **COMPLETED**  
-Ebook status: **COMPLETED**
+Sources: <https://github.com/profound-labs/recollections-of-ajahn-chah>
 
-Second edition
+## Editions
 
-ISBN for paperback: `978-1-870205-65-8`
+Second edition, 8,600 copies, 2013, Printed in Malaysia
 
-ISBN for ebooks: `978-1-870205-86-3`
+## Tasks
 
-Find the final PDF, EPUB and MOBI files in the `publish/final/` folder.
+- [ ] ! missing cover sources
+- [x] add web PDF
+- [x] upload to FSP Archive
 
-Github: <https://github.com/profound-labs/recollections-of-ajahn-chah>
+## Fonts
 
-Install [prophecy](https://github.com/profound-labs/prophecy) to compile
-the source files.
+- Gentium
+- Gentium Book Basic
+- Crimson Roman
+- Shaker 2 (non-free)
+- Shaker Pali (non-free)
 
+## Print specs
+
+Page size: 5.25in x 8in
+
+Cover finishing: Matt
+
+Binding: perfect binding
+
+## Software
+
+Mainmatter: lualatex from TexLive distribution.
+
+Cover: InDesign
+
+Ebooks: [prophecy](https://github.com/profound-labs/prophecy)
+
+## License
+
+Copyright &copy; 2013 AMARAVATI PUBLICATIONS
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported Licence.
+
+http://creativecommons.org/licenses/by-nc-nd/3.0/
