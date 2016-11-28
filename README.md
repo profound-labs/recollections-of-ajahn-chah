@@ -1,4 +1,3 @@
-
 Recollections of Ajahn Chah
 ===========================
 

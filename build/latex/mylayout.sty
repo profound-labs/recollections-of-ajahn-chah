@@ -11,3 +11,14 @@
   \footFont\footSize%
   \leftmark \sepline \thepage%
 }
+
+\newcommand\webcover[1]{%
+\thispagestyle{empty}\mbox{}
+\ifwebversion
+\AddToShipoutPictureFG*{\put(0,0){%
+\begin{minipage}[b][\paperheight][c]{\paperwidth}%
+#1
+\end{minipage}}}
+\fi
+\clearpage
+}

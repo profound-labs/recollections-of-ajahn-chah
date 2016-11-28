@@ -4,6 +4,9 @@
   babelLanguage=british,
 ]{anecdote}
 
+\newif\ifwebversion
+\webversiontrue
+
 \usepackage{mylayout}
 
 %% Details of the book
@@ -14,26 +17,33 @@
 \author{}
 \date{2013-05-03}
 \ISBN{978-1-870205-65-8}
-\editionInfo{\textit{Second edition}, 8,600 copies, \the\year, Printed in Malaysia}
+\editionInfo{\textit{Second edition}, 8,600 copies, 2013, Printed in Malaysia}
 
 %% === Load further packages ===
 
 \begin{document}
 
+\ifwebversion
+\webcover{%
+\includegraphics[height=\paperheight]{webcover}%
+}
+\else
+\fi
 
-\frontmatter
-
+\ifwebversion\relax
+\else
 \cleartorecto
-
 \input{../.././manuscript/tex/titlepage.tex}
+\fi
 
 \cleartoverso
-
 \input{../.././manuscript/tex/copyright-amaravati.tex}
 
 \cleartorecto
 
 \input{../.././manuscript/tex/acknowledgements.tex}
+
+\frontmatter
 
 \tableofcontents
 
